@@ -1,1 +1,1 @@
-# format-date-dd.mm.yyyy
+# Format date to DD-MM-YYYY with JavaScript
